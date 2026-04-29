@@ -1,0 +1,1 @@
+g++ Q2SpriteJSONTool.cpp -o Q2SpriteJSONTool_linux -I.
